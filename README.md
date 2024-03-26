@@ -10,7 +10,9 @@ Other visuals : https://lnkd.in/e6QzF-mh
 
 
 What I Learnt in Tableau :
+
 To Create interactive dashboards and publish it online to share
+
 Learnt how to connect to different data sources such as Excel, Google Sheets and Cloud Servers.
 To Create a variety of charts including bar charts, line charts, donut charts, maps, tables and dual axis charts.
 To Create calculated fields including developing IF Statements.
